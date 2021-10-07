@@ -4,6 +4,7 @@
 # For use with the Subtitles WordPress Plugin
 # @link https://github.com/wecobble/Subtitles
 
+# this is a GIT test
 install:
     - sudo apt-get update -y
     - sudo apt-get install -y php5-mysql
